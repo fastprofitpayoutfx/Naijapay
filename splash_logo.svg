@@ -1,0 +1,19 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background square with rounded corners -->
+  <rect x="10" y="10" width="180" height="180" rx="20" ry="20" fill="#ffffff" stroke="#008751" stroke-width="4"/>
+  
+  <!-- NP letters -->
+  <text x="100" y="120" font-family="Arial" font-size="80" font-weight="bold" text-anchor="middle" fill="#008751">NP</text>
+  
+  <!-- Nigerian green accent at bottom -->
+  <rect x="30" y="160" width="140" height="10" rx="5" ry="5" fill="#008751"/>
+  
+  <!-- Nigerian green accent at top -->
+  <rect x="60" y="30" width="80" height="10" rx="5" ry="5" fill="#008751"/>
+  
+  <!-- Decorative circle representing a coin -->
+  <circle cx="155" cy="45" r="15" fill="#F7D917" stroke="#008751" stroke-width="2"/>
+  
+  <!-- Naira symbol -->
+  <text x="155" y="50" font-family="Arial" font-size="18" font-weight="bold" text-anchor="middle" fill="#008751">₦</text>
+</svg>
